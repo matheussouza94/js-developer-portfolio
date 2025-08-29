@@ -9,27 +9,27 @@
     "hardSkills": [
       {
         "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/matheussouza94/js-developer-portfolio-DIO/main/data/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/matheussouza94/js-developer-portfolio/refs/heads/main/data/imgs/css.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/matheussouza94/js-developer-portfolio-DIO/refs/heads/main/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/matheussouza94/js-developer-portfolio/refs/heads/main/data/imgs/js.png"
       },
       {
         "name": "Java",
-        "logo": "https://raw.githubusercontent.com/matheussouza94/js-developer-portfolio-DIO/refs/heads/main/data/imgs/java.png"
+        "logo": "https://raw.githubusercontent.com/matheussouza94/js-developer-portfolio/refs/heads/main/data/imgs/java.png"
       },
       {
         "name": "React",
-        "logo": "https://raw.githubusercontent.com/matheussouza94/js-developer-portfolio-DIO/refs/heads/main/data/imgs/react.png"
+        "logo": "https://raw.githubusercontent.com/matheussouza94/js-developer-portfolio/refs/heads/main/data/imgs/react.png"
       },
       {
         "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/matheussouza94/js-developer-portfolio-DIO/refs/heads/main/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/matheussouza94/js-developer-portfolio/refs/heads/main/data/imgs/html.png"
       },
       {
         "name": "Git",
-        "logo": "https://raw.githubusercontent.com/matheussouza94/js-developer-portfolio-DIO/refs/heads/main/data/imgs/git.png"
+        "logo": "https://raw.githubusercontent.com/matheussouza94/js-developer-portfolio/refs/heads/main/data/imgs/git.png"
       }
     ],
     "softSkills": [
